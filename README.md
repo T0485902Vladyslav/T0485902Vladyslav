@@ -1,24 +1,8 @@
 ## Hello World 👋
 
-I'm a second-year Computer Science (Artificial Intelligence) student at Nottingham Trent University 🎓
+I'm a second-year Computer Science (Artificial Intelligence) student at Nottingham Trent University 🎓. I have a strong understanding of Python, C++ and Java, along with a basic understanding of SQL and MySQL. I'm interested in software development and enjoy working on projects that allow me to improve my programming skills and learn new technologies. I'm currently developing my skills through university projects, personal projects and exploring different areas of computer science.
 
-💻 I have a strong understanding of Python, C++ and Java, as well as a basic
-understanding of SQL and MySQL.
-
-I'm passionate about programming and enjoy learning new technologies and
-developing my skills. I like challenging myself with new problems and
-challenges, as I believe that the best way to improve is to step outside
-of my comfort zone.
-
-🚀 I'm always interested in learning something new, whether it's a new
-programming language, technology, or a different way of solving a problem.
-
-📚 Currently, I'm focusing on improving my programming skills through
-university projects, personal practice, and exploring new areas of
-computer science.
-
-🏀 Outside of programming, I play basketball, which has taught me the
-importance of teamwork, discipline, and consistency.
+Outside of programming, I used to play basketball competitively as part of a team and still play from time to time 🏀.
 
 ## 🛠 Tech Stack
 
